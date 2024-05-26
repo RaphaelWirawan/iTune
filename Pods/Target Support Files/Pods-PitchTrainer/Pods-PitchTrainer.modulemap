@@ -1,0 +1,6 @@
+framework module Pods_PitchTrainer {
+  umbrella header "Pods-PitchTrainer-umbrella.h"
+
+  export *
+  module * { export * }
+}
